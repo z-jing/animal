@@ -19,7 +19,8 @@
             <div class="navBar">
                 <div class="logo">
                     <router-link to="index">
-                        <img class="logo" src="@/assets/images/logo.png" alt="弘辰動物保健">
+                        <!--<img class="logo" src="@/assets/images/logo.png" alt="弘辰動物保健">-->
+                        <span class="website_title">寵物自用品</span>
                     </router-link>
                 </div>
                 <div class="about_us">
@@ -45,6 +46,10 @@
     }
 </script>
 <style lang="scss" scoped>
+    .website_title {
+        color: #000;
+        font-size: 3rem;
+    }
     .topLink{
         line-height: 2rem;
         background-color: $themeColor;

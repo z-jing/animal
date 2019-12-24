@@ -4,7 +4,7 @@
             <img src="@/assets/images/about_us_banner.png" alt="" width="100%">
         </div>
          <div class="about_us_div">
-             <span>關於弘辰</span>
+             <span>關於我們</span>
              <span>ABOUT US</span>
          </div>
         <Row class="company_profile">
@@ -22,7 +22,7 @@
             <p class="content">「熱情、關懷、健康、穩健」是一成藥品的核心價值，我們期盼全體服務同仁和合作夥伴懷抱著熱情和對人性的關懷，提供高品質的產品和服務來滿足我們的顧客，希望藉由我們些微的努力，成為幸福企業典範並對創造健康社會和人生貢獻一份心力。</p>
             <h2 class="title">公司地址</h2>
             <span class="text">Company Address</span>
-            <p class="content"><Icon type="md-pin" /> 壹中市大安區中庒里南勢 街 89號</p>
+            <p class="content"><Icon type="md-pin" />中g台台中市太平來二街12-1號</p>
         </Row>
         <!--<div  class="articleBlockStyle02">-->
             <!--<div class="Bbox_1c">-->

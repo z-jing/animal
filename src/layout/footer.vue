@@ -2,27 +2,25 @@
     <div class="footer">
         <div class="footer_content">
             <section class="footer_logo">
-                <h2>弘辰動物保健</h2>
+                <h2>寵物自用品</h2>
             </section>
             <section class="footer_describe">
                 <Row>
                     <Col span="15">
-                        <div>一成具有完整的藥品行銷和查驗登記之經驗，並且與日、法等國藥廠合作經驗豐富。 我們希望與國際夥伴合作，針對預防醫學並將引進小眾市場用藥迅速引進國內，提升寵物的健康及生活品質，提供用藥的選擇性。</div>
-                        <!--<div>-->
-                            <!--關於我們-->
-                        <!--</div>-->
+                    <h3>店铺的商品每一款都有它存在的理由</h3>
+                    <h3>放心给自家两狗一猫食用使用的才售卖</h3>
                     </Col>
                     <Col span="6" offset="2">
-                    <div><Icon type="md-bookmark" /> 台灣弘辰動物藥品有限公司</div>
-                    <div><Icon type="md-pin" /> 臺中市大安區中庒里南勢厝路89號</div>
-                    <!--<div><Icon type="md-call" />tel</div>-->
+                    <div><Icon type="md-bookmark" /> 華盛行貿易有限公司</div>
+                    <div><Icon type="md-pin" /> 中g台台中市太平來二街12-1號</div>
+                    <div><Icon type="md-call" /> tel：+866915378819</div>
                     </Col>
                 </Row>
             </section>
             <h3 class="about_us"><router-link to="/aboutUs">關於我們</router-link></h3>
         </div>
         <div class="copyright">
-            <span>Copyright © 2019 弘辰動物保健 All Rights Reserved.</span>
+            <span>Copyright © 2019 寵物自用品 All Rights Reserved.</span>
         </div>
     </div>
 </template>
