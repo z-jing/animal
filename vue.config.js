@@ -20,7 +20,7 @@ module.exports = {
     devServer: {
         proxy: {
             '/api': {
-                target: 'http://hcdwbj.com/',//设置你调用的接口域名和端口号 别忘了加http
+                target: 'http://www.twhshmy.com/',//调用的接口域名和端口号
                 changeOrigin: true,//如果需要跨域
                 pathRewrite: {
                     '^/api': '/'

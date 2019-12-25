@@ -20,7 +20,7 @@
                 <p>通用名：{{info.alias || '無'}}</p>
                 <p>商品名：{{info.name || '無'}}</p>
                 <p>英文名：{{info.code || '無'}}</p>
-                <h2 class="title">【主要成分】</h2>
+                <h2 class="title">【使用方式】</h2>
                 <p>{{info.component || '無'}}</p>
                 <h2 class="title">【性  狀】</h2>
                 <p>{{info.character || '無'}}</p>
