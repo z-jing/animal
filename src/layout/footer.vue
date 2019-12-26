@@ -2,7 +2,7 @@
     <div class="footer">
         <div class="footer_content">
             <section class="footer_logo">
-                <h2>寵物自用品</h2>
+                <h2>中國台灣華盛行貿易有限公司</h2>
             </section>
             <section class="footer_describe">
                 <Row>
@@ -20,7 +20,7 @@
             <h3 class="about_us"><router-link to="/aboutUs">關於我們</router-link></h3>
         </div>
         <div class="copyright">
-            <span>Copyright © 2019 寵物自用品 All Rights Reserved.</span>
+            <span>Copyright © 2019 中國台灣華盛行貿易有限公司 All Rights Reserved.</span>
         </div>
     </div>
 </template>

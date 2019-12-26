@@ -20,7 +20,7 @@
                 <div class="logo">
                     <router-link to="index">
                         <!--<img class="logo" src="@/assets/images/logo.png" alt="弘辰動物保健">-->
-                        <span class="website_title">寵物自用品</span>
+                        <span class="website_title">中國台灣華盛行貿易有限公司</span>
                     </router-link>
                 </div>
                 <div class="about_us">
@@ -48,7 +48,7 @@
 <style lang="scss" scoped>
     .website_title {
         color: #000;
-        font-size: 3rem;
+        font-size: 2.6rem;
     }
     .topLink{
         line-height: 2rem;

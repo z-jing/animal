@@ -18,7 +18,7 @@
         <div class="about_us">
             <Row class="about_us_box">
                 <Col span="11">
-                <h2 class="about_us_title">寵物自用品</h2>
+                <h2 class="about_us_title">中國台灣華盛行貿易有限公司</h2>
                 <span class="about_us_text">ABOUT US</span>
                 <div class="about_us_content">
                     <h3>店铺的商品每一款都有它存在的理由</h3>

@@ -1,5 +1,7 @@
 <template>
     <div class="home">
+        <div class="drug_information_fangwei">防偽查詢</div>
+
         <div class="drug_information_div">
             <span>藥品信息</span>
             <span>Drug information</span>
@@ -88,6 +90,12 @@
     }
 </script>
 <style lang="scss" scoped>
+    .drug_information_fangwei {
+        width: 85%;
+        margin: auto;
+        font-size: 2rem;
+        color: #000;
+    }
     .drug_information_div {
         width: 85%;
         margin: 32px auto;
